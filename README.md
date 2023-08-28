@@ -13,11 +13,11 @@ As of right now the main area of blockchain that i am focussed on is tokenisatio
 
 ## Interests
 
-Fintech
+- Fintech
 
-Politics
+- Politics
 
-Soccer
+- Soccer
 
 
 
